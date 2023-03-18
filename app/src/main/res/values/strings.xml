@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">numberGuessingGame</string>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="Try_guess">Try to guess the number l\'m thinking of from 1 - 100</string>
+    <string name="Num_guess">Your Guess</string>
+    <string name="tip_amount">Tip amount: %s</string>
 </resources>
